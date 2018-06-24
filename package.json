@@ -53,8 +53,10 @@
     "material-ui": "^0.20.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
-    "react-swipeable-views": "^0.12.14"
+    "react-swipeable-views": "^0.12.14",
+    "redux": "^4.0.0"
   },
   "scripts": {
     "start": "node scripts/start.js",
